@@ -8,3 +8,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # CP5_FRONT_NEXT.JS
 # CP5_FRONT_NEXT.JS
 # CP5_FRONT_NEXT.JS
+# CP_FRONT_NEXT.JS
